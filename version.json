@@ -7,11 +7,11 @@
   "maintenance": false,
   "message": "",
   "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/latest/download/LocuraDigital.apk",
-  "sha256": "977E4C8D690FB259DE0F379CE3B2AD93CB378430DF9C596544964AD6F22E71CA",
-  "size": 111956249,
+  "sha256": "AE920DDC39A4CB5EE247A567093199577ABF400DC7E170A8408423CD21EBC32E",
+  "size": 114131383,
   "changes": [
     "El menú Actualizar muestra claramente si todo está al día o hay una nueva versión",
-    "Nuevo estado visual Aplicación actualizada",
-    "Navegación completa con el mando de TV"
+    "Nuevo diseño visual con imágenes 3D para los estados de actualización",
+    "Navegación completa con el mando de TV dentro del menú de actualización"
   ]
 }
