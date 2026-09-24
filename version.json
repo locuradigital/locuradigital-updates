@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.locuradigital.app",
+  "versionCode": 100,
+  "versionName": "1.0",
+  "mandatory": false,
+  "maintenance": false,
+  "message": "",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/latest/download/LocuraDigital.apk",
+  "sha256": "8F7748A28A6A40FEB7C22D3E0BEE4B95398463D9791C57036DEE8291FF443D94",
+  "size": 111952086,
+  "changes": [
+    "Primera version estable de Locura Digital APP"
+  ]
+}
