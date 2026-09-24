@@ -1,16 +1,18 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.app",
-  "versionCode": 102,
-  "versionName": "1.0.2",
+  "versionCode": 103,
+  "versionName": "1.0.3",
   "mandatory": false,
   "maintenance": false,
   "message": "",
   "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/latest/download/LocuraDigital.apk",
-  "sha256": "0A6A4C04FB47D7B717EEA940553C107959F4795AAAA0BD6F5D77B16FD9A0E6DA",
+  "sha256": "977E4C8D690FB259DE0F379CE3B2AD93CB378430DF9C596544964AD6F22E71CA",
   "size": 111956249,
   "changes": [
-    "Nuevo diseño visual del sistema de actualizaciones",
-    "Corregida la carátula de las series en Continuar viendo"
+    "El menú Actualizar muestra claramente si todo está al día o hay una nueva versión",
+    "Nuevo estado visual Aplicación actualizada",
+    "Navegación completa con el mando de TV"
   ]
 }
+5.
