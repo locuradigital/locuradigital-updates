@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.app",
-  "versionCode": 100,
-  "versionName": "1.0",
+  "versionCode": 101,
+  "versionName": "1.0.1",
   "mandatory": false,
   "maintenance": false,
   "message": "",
   "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/latest/download/LocuraDigital.apk",
-  "sha256": "9392AAA2CE2B2A8CB25015DD1340A29761FBA0ABCFBF517110D4D61923DE8C8B",
+  "sha256": "EF84E3ED7E85191CCB023AF43BD5FAA2EDAF75EA90B6E7BB9EFA700AA05086AD",
   "size": 111956249,
   "changes": [
-    "Primera version estable de Locura Digital APP"
+    "Corregida la carátula de las series en Continuar viendo"
   ]
 }
