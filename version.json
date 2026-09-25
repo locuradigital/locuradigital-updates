@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.app",
-  "versionCode": 110,
-  "versionName": "1.0.10",
+  "versionCode": 111,
+  "versionName": "1.0.11",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.10/LocuraDigital.apk",
-  "sha256": "05C42E1AA4A7FB36C3C0D6C619418108C742C32D16A2E7D32F656F5AE62D13F7",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.11/LocuraDigital.apk",
+  "sha256": "C24E878447865B70EE075FF1A91026A677877138791E243CB77FDF08B6E9362A",
   "size": 124540285,
   "changes": [
-    "Corrección del inicio de reproducción en series con muchos episodios, como One Piece.",
-    "Se mantienen los ajustes de pantalla para TV, móviles y tablets.",
-    "Se mantiene el inicio de sesión adaptado a la pantalla."
+    "Corregida la mezcla de caratulas entre series con el mismo titulo.",
+    "Restauradas las caratulas originales del catalogo guardado.",
+    "Se mantiene la correccion de reproduccion en series con muchos episodios."
   ]
 }
