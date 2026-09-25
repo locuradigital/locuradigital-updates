@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.app",
-  "versionCode": 105,
-  "versionName": "1.0.5",
+  "versionCode": 109,
+  "versionName": "1.0.9",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/latest/download/LocuraDigital.apk",
-  "sha256": "7D91F87F2AEA243CED451A14A43015F7A1F2C3D77C0308BF319CB50C5F158B58",
-  "size": 114131383,
+  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.9/LocuraDigital.apk",
+  "sha256": "9929B281611AB2AA9C5DD48B7D126F0965DB2456FD54CD21ACF3918108490DA5",
+  "size": 124540285,
   "changes": [
-    "Correcciones de pausa y recuperacion de posicion del reproductor",
-    "Avanzar y retroceder con el mando desde Play/Pausa y la barra",
-    "Conservacion de la pausa durante la recuperacion de conexion"
+    "Diseno de TV adaptado a pantallas de movil y tablet",
+    "Inicio de sesion ajustado para mostrar todos los campos y botones",
+    "Compatibilidad de instalacion con Android moderno"
   ]
 }
