@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.app",
-  "versionCode": 111,
-  "versionName": "1.0.11",
+  "versionCode": 112,
+  "versionName": "1.0.12",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.11/LocuraDigital.apk",
-  "sha256": "C24E878447865B70EE075FF1A91026A677877138791E243CB77FDF08B6E9362A",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.12/LocuraDigital.apk",
+  "sha256": "02C4839EBB146316D5D646F46F62F57A9A5C7BEA3A7861DB777319D8A9702795",
   "size": 124540285,
   "changes": [
-    "Corregida la mezcla de caratulas entre series con el mismo titulo.",
-    "Restauradas las caratulas originales del catalogo guardado.",
-    "Se mantiene la correccion de reproduccion en series con muchos episodios."
+    "Restaurado el sistema de caratulas de la version 1.0.10.",
+    "Renovacion automatica del catalogo guardado.",
+    "Se mantienen las mejoras de reproduccion y adaptacion de pantalla."
   ]
 }
