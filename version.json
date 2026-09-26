@@ -1,18 +1,16 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.app",
-  "versionCode": 116,
-  "versionName": "1.0.16",
+  "versionCode": 119,
+  "versionName": "1.0.14",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.14/LocuraDigital.apk",
-  "sha256": "A8641BE42C071E423B9D47059CFAA5C4BA8EE3CF03BDBF68AC9BDDBEB6AF9864",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.14-estable/LocuraDigital.apk",
+  "sha256": "71FEE1C083B0F69E325CA13DCECF59772302245CC23458E100007ECDD1610470",
   "size": 126662310,
   "changes": [
-    "Corregida la sincronizacion del progreso y los capitulos vistos en series.",
-    "Porcentaje y barras de progreso en episodios y Continuar viendo.",
-    "Nueva pantalla de descarga con la imagen de Locura Digital y progreso real.",
-    "Cancelacion real de la descarga y controles compatibles con el mando."
+    "Restaurada la version estable 1.0.14.",
+    "Recuperado el funcionamiento anterior del catalogo y de la VPN."
   ]
 }
