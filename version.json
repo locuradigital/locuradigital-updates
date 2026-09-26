@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.app",
-  "versionCode": 119,
-  "versionName": "1.0.14",
+  "versionCode": 120,
+  "versionName": "1.0.14.1",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.14-estable/LocuraDigital.apk",
-  "sha256": "71FEE1C083B0F69E325CA13DCECF59772302245CC23458E100007ECDD1610470",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.14.1/LocuraDigital.apk",
+  "sha256": "922115ACF5DB12A58DEB92F11EC6376D59644CCCE9EA30EFEEDE701037DEDA52",
   "size": 126662310,
   "changes": [
-    "Restaurada la version estable 1.0.14.",
-    "Recuperado el funcionamiento anterior del catalogo y de la VPN."
+    "Diferenciados los errores de credenciales y conexion con el servidor.",
+    "Avisos especificos de acceso restringido, cuenta caducada o desactivada.",
+    "Volver conserva los datos de acceso ante fallos de conexion."
   ]
 }
