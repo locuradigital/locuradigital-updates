@@ -1,21 +1,18 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.app",
-  "versionCode": 129,
-  "versionName": "1.0.19",
+  "versionCode": 131,
+  "versionName": "1.0.20",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.19/LocuraDigital.apk",
-  "sha256": "1ED759CA23F2937A40B9FBAFE52BE0B347F70148B92829217D7E2D78728CA89E",
-  "size": 126670502,
+  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.20/LocuraDigital.apk",
+  "sha256": "91B45938829FED304666F4F5D2C71F4A272B852D40B80271E9A54DCEB6A3870A",
+  "size": 126678911,
   "changes": [
-    "Nombre oficial Locura Digital restaurado en la aplicación y las descargas.",
-    "Actualizaciones verificadas por versión, integridad, paquete y firma, sin descargas duplicadas.",
-    "Reproductor más estable al pausar, reanudar, avanzar y recuperar la conexión.",
-    "Visto, porcentajes y Continuar viendo mejorados en series.",
-    "Carga y navegación más fluidas en TV, móvil y tablet.",
-    "Fecha de expiración en Inicio y errores de acceso diferenciados.",
-    "Limpieza de APK temporales tras actualizar."
+    "Selector de VPN con Estados Unidos y Francia.",
+    "Una sola VPN activa: se desconecta la anterior antes de conectar la nueva.",
+    "El pais seleccionado se conserva al volver a abrir la aplicacion.",
+    "Selector disponible antes y despues de iniciar sesion, con control tactil y mando."
   ]
 }
