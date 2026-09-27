@@ -1,17 +1,20 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.app",
-  "versionCode": 120,
-  "versionName": "1.0.14.1",
+  "versionCode": 128,
+  "versionName": "1.0.18",
   "mandatory": false,
   "maintenance": false,
   "message": "",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.14.1/LocuraDigital.apk",
-  "sha256": "922115ACF5DB12A58DEB92F11EC6376D59644CCCE9EA30EFEEDE701037DEDA52",
-  "size": 126662310,
+  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.18/LocuraDigital.apk",
+  "sha256": "245C77B1AFEE5DCB1E1886A7007C16CDC7D0719B31AEBF1809826A70D802F765",
+  "size": 126670502,
   "changes": [
-    "Diferenciados los errores de credenciales y conexion con el servidor.",
-    "Avisos especificos de acceso restringido, cuenta caducada o desactivada.",
-    "Volver conserva los datos de acceso ante fallos de conexion."
+    "Actualizaciones verificadas por versión, integridad, paquete y firma, sin descargas duplicadas.",
+    "Reproductor más estable al pausar, reanudar, avanzar y recuperar la conexión.",
+    "Visto, porcentajes y Continuar viendo mejorados en series.",
+    "Carga y navegación más fluidas en TV, móvil y tablet.",
+    "Fecha de expiración en Inicio y errores de acceso diferenciados.",
+    "Limpieza de APK temporales tras actualizar."
   ]
 }
