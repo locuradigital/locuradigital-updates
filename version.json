@@ -1,20 +1,21 @@
 {
-  "versionName": "1.0.24",
-  "mandatory": false,
   "packageName": "com.locuradigital.app",
-  "sha256": "C1C3900DA8405DC10A67C040220C60ADCD2CD551890E4472E560C991FF03E097",
-  "maintenance": false,
-  "schemaVersion": 1,
-  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.24/LocuraDigital.apk",
-  "size": 140984147,
-  "versionCode": 135,
   "message": "",
+  "schemaVersion": 1,
+  "versionCode": 142,
+  "maintenance": false,
+  "mandatory": false,
+  "versionName": "1.0.31",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.0.31/LocuraDigital.apk",
+  "sha256": "1CD41CF3FB78F06EB87E4446D2CD4BB46BE6C1FE90EDBDB8304984939D6EAE3B",
+  "size": 135405156,
   "changes": [
-    "TV en directo fija a pantalla completa sin heredar el aspecto de peliculas o series.",
-    "Selector de hasta tres perfiles locales y correcciones de navegacion con mando.",
-    "Mejoras de rendimiento, limpieza de procesos y actualizacion de contenido cada 12 horas o manual.",
-    "Correcciones del actualizador y nuevos dialogos de conexion y cierre de sesion.",
-    "Mejoras de nombres y preferencias de audio y subtitulos.",
-    "Descargas offline solo en moviles y tablets; no visibles en TV."
+    "Géneros: clasificación de películas y series por acción, terror…",
+    "Contenido: actualización manual o cada 12 horas, con progreso visible y limpieza de caché.",
+    "Windows: corrección del falso «Finalizado» al pausar y conservación del punto de reproducción.",
+    "Android: fondo negro en las variantes del reproductor para evitar las franjas azules.",
+    "Sony: se conservan los ajustes específicos de compatibilidad, sin cambiar globalmente el decodificador de los Fire.",
+    "TV: aspecto independiente del seleccionado para películas y series.",
+    "Descargas: desde móvil o tablet puedes bajar tus películas y series y verlas offline."
   ]
 }
