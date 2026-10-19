@@ -1,0 +1,52 @@
+{
+  "release": "1.2",
+  "android": {
+    "packageName": "com.locuradigital.app",
+    "message": "",
+    "schemaVersion": 1,
+    "versionCode": 164,
+    "maintenance": false,
+    "mandatory": true,
+    "versionName": "1.2",
+    "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.2/LocuraDigital.apk",
+    "sha256": "55A6D693E4F487DA36AED1D2621B44BB873175E0BDCA3C3CFF6D0A208FD7509C",
+    "size": 133469423,
+    "changes": [
+      "Navegación: mejoras del mando, acceso al selector de perfiles y botón Volver.",
+      "Reproductor: apertura más rápida y mejoras al pausar, avanzar, retroceder y continuar viendo.",
+      "Series: episodios más compactos, marcar visto/no visto y avisos de nuevos episodios o temporadas en favoritos.",
+      "Géneros: clasificación de películas y series sincronizada desde la web.",
+      "Descargas: películas, episodios y temporadas en móvil/tablet y Windows, conservando sus carátulas originales. No disponibles en TV.",
+      "VPN: únicamente Francia, con autoconexión opcional y reconexión automática mientras esté activada.",
+      "Cuenta: recordatorios de renovación cuando queden 15 días y 1 día.",
+      "Interfaz: avisos unificados, mejoras de legibilidad y selección de perfil antes de mostrar el catálogo.",
+      "Windows: elección de carpeta de instalación y configuración de la carpeta de descargas.",
+      "Compatibilidad: se mantienen los ajustes específicos de Sony y Fire TV."
+    ]
+  },
+  "windows": {
+    "schema": 1,
+    "channel": "windows-official",
+    "platform": "windows-x64",
+    "version": "1.2.0",
+    "url": "https://github.com/locuradigital/locuradigital-updates/releases/download/windows-v1.2.0/LocuraDigitalW-1.2.0-Setup.exe",
+    "size": 58660616,
+    "sha256": "286F60D583231D08E961B450D2299BBF00474B65ADB89B284E8ADD3BBFCFBD88",
+    "appSha256": "A211C447B953521C39BB56C953B2B987954351D45AAA560C6C9668444C373F20",
+    "mandatory": true,
+    "changes": [
+      "Navegación: mejoras del mando, acceso al selector de perfiles y botón Volver.",
+      "Reproductor: apertura más rápida y mejoras al pausar, avanzar, retroceder y continuar viendo.",
+      "Series: episodios más compactos, marcar visto/no visto y avisos de nuevos episodios o temporadas en favoritos.",
+      "Géneros: clasificación de películas y series sincronizada desde la web.",
+      "Descargas: películas, episodios y temporadas en móvil/tablet y Windows, conservando sus carátulas originales. No disponibles en TV.",
+      "VPN: únicamente Francia, con autoconexión opcional y reconexión automática mientras esté activada.",
+      "Cuenta: recordatorios de renovación cuando queden 15 días y 1 día.",
+      "Interfaz: avisos unificados, mejoras de legibilidad y selección de perfil antes de mostrar el catálogo.",
+      "Windows: elección de carpeta de instalación y configuración de la carpeta de descargas.",
+      "Compatibilidad: se mantienen los ajustes específicos de Sony y Fire TV."
+    ]
+  },
+  "legacyWindowsMandatory": "requires user acceptance in versions before 1.2",
+  "publishedAt": "2026-10-19T07:14:35.5611034Z"
+}
