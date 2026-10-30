@@ -1,21 +1,15 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.app",
-  "versionCode": 178,
-  "versionName": "1.2.1",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.2.1/LocuraDigital.apk",
-  "sha256": "02B8280B604F8F4C0131C51434EF3A8DF84279ABC6E7B956E3B905BFC14E75C1",
-  "size": 140006697,
-  "mandatory": true,
+  "versionCode": 180,
+  "versionName": "1.2.2",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.2.2/LocuraDigital.apk",
+  "sha256": "219B279D019D5F8A887F8F33D74747D6F66610A60637157DB96DC5197AF3E649",
+  "size": 140010793,
+  "mandatory": false,
   "maintenance": false,
   "message": "",
   "changes": [
-    "VPN automática: Optimización de la VPN",
-    "Reconexión segura: hasta tres intentos automáticos, evitando conexiones simultáneas.",
-    "Actualizador mejorado: recuperación de descargas y reintentos para evitar que una actualización interrumpida quede bloqueada.",
-    "Mando: mejoras del botón Atrás y avance o retroceso progresivo al mantener pulsada la flecha.",
-    "Perfiles: posibilidad de eliminar los perfiles creados.",
-    "Series: mejoras del progreso y del estado «Visto» al cambiar de episodio.",
-    "Se conservan las mejoras de EPG, logos y reproducción."
+    "corrección VPN"
   ]
 }
