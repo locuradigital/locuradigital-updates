@@ -2,22 +2,15 @@
   "schema": 1,
   "channel": "windows-official",
   "platform": "windows-x64",
-  "version": "1.2.0",
-  "url": "https://github.com/locuradigital/locuradigital-updates/releases/download/windows-v1.2.0/LocuraDigitalW-1.2.0-Setup.exe",
-  "size": 58660616,
-  "sha256": "286F60D583231D08E961B450D2299BBF00474B65ADB89B284E8ADD3BBFCFBD88",
-  "appSha256": "A211C447B953521C39BB56C953B2B987954351D45AAA560C6C9668444C373F20",
-  "mandatory": true,
+  "version": "1.2.4",
+  "url": "https://github.com/locuradigital/locuradigital-updates/releases/download/windows-v1.2.4/LocuraDigitalW-1.2.4-Setup.exe",
+  "size": 58988383,
+  "sha256": "0DDBF9B0750EA94171A89B6374202326181D2BEF174B681DE5F4A9DD7DDD17A2",
+  "appSha256": "60A914153F8557D66D7FB36B1BF592708CDE85D42A29E28DC45E4E7FD9F83D40",
   "changes": [
-    "Navegación: mejoras del mando, acceso al selector de perfiles y botón Volver.",
-    "Reproductor: apertura más rápida y mejoras al pausar, avanzar, retroceder y continuar viendo.",
-    "Series: episodios más compactos, marcar visto/no visto y avisos de nuevos episodios o temporadas en favoritos.",
-    "Géneros: clasificación de películas y series sincronizada desde la web.",
-    "Descargas: películas, episodios y temporadas en móvil/tablet y Windows, conservando sus carátulas originales. No disponibles en TV.",
-    "VPN: únicamente Francia, con autoconexión opcional y reconexión automática mientras esté activada.",
-    "Cuenta: recordatorios de renovación cuando queden 15 días y 1 día.",
-    "Interfaz: avisos unificados, mejoras de legibilidad y selección de perfil antes de mostrar el catálogo.",
-    "Windows: elección de carpeta de instalación y configuración de la carpeta de descargas.",
-    "Compatibilidad: se mantienen los ajustes específicos de Sony y Fire TV."
-  ]
+    "VPN automática y cierre seguro antes de actualizar.",
+    "Menos consultas y mejoras de carga de la guía de TV.",
+    "Soporte de la aplicación para equipos autorizados."
+  ],
+  "mandatory": false
 }
