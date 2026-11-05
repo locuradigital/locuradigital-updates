@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.app",
-  "versionCode": 216,
-  "versionName": "1.2.5",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.2.5/LocuraDigital.apk",
-  "sha256": "73C234312562FBBC21CD79DC58D9242E577F8AB06105BA0D2CB5DD8CCAB5BC45",
+  "versionCode": 218,
+  "versionName": "1.2.6",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.2.6/LocuraDigital.apk",
+  "sha256": "33E19DDD3D5B7436360D695E8017AABEFFF0D995BF59C3CD6B526F50E9274D7A",
   "size": 140199209,
   "mandatory": false,
   "maintenance": false,
   "message": "",
   "changes": [
-    "mejora de VPN"
+    "Reparación actualización"
   ]
 }
