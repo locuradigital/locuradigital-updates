@@ -1,18 +1,15 @@
 {
   "schemaVersion": 1,
   "packageName": "com.locuradigital.app",
-  "versionCode": 194,
-  "versionName": "1.2.4",
-  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.2.4/LocuraDigital.apk",
-  "sha256": "206EBDFF98924EF0AB85D8B14ED569C013ECF231F1C271CAA879F8F1F1FDCDB3",
-  "size": 140166441,
+  "versionCode": 216,
+  "versionName": "1.2.5",
+  "apkUrl": "https://github.com/locuradigital/locuradigital-updates/releases/download/v1.2.5/LocuraDigital.apk",
+  "sha256": "73C234312562FBBC21CD79DC58D9242E577F8AB06105BA0D2CB5DD8CCAB5BC45",
+  "size": 140199209,
   "mandatory": false,
   "maintenance": false,
   "message": "",
   "changes": [
-    "Requiere Android 5.0 o superior.",
-    "Mejoras de recuperación de la VPN tras actualizar.",
-    "Cierre de la VPN antes de instalar futuras actualizaciones.",
-    "Menos consultas y mejoras de carga de la guía de TV."
+    "mejora de VPN"
   ]
 }
