@@ -2,15 +2,14 @@
   "schema": 1,
   "channel": "windows-official",
   "platform": "windows-x64",
-  "version": "1.2.4",
-  "url": "https://github.com/locuradigital/locuradigital-updates/releases/download/windows-v1.2.4/LocuraDigitalW-1.2.4-Setup.exe",
-  "size": 58988383,
-  "sha256": "0DDBF9B0750EA94171A89B6374202326181D2BEF174B681DE5F4A9DD7DDD17A2",
-  "appSha256": "60A914153F8557D66D7FB36B1BF592708CDE85D42A29E28DC45E4E7FD9F83D40",
+  "version": "1.2.7",
+  "url": "https://github.com/locuradigital/locuradigital-updates/releases/download/windows-v1.2.7/LocuraDigitalW-1.2.7-Setup.exe",
+  "size": 59000096,
+  "sha256": "2FBA08DFDE96D4230CCF385B0970C73FA2888DDC72250BCF16ADEAA63F49E4DB",
+  "appSha256": "C066E5060C782A899BF17DD89DD0CFF52A94C1510A30F8DB0A9FD31CC0839A80",
   "changes": [
-    "VPN automática y cierre seguro antes de actualizar.",
-    "Menos consultas y mejoras de carga de la guía de TV.",
-    "Soporte de la aplicación para equipos autorizados."
+    "Mejoras del cierre de la VPN al salir de la aplicación y antes de actualizar.",
+    "Mejoras de recuperación y reconexión tras cerrar una sesión VPN."
   ],
   "mandatory": false
 }
