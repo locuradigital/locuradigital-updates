@@ -2,14 +2,18 @@
   "schema": 1,
   "channel": "windows-official",
   "platform": "windows-x64",
-  "version": "1.2.7",
-  "url": "https://github.com/locuradigital/locuradigital-updates/releases/download/windows-v1.2.7/LocuraDigitalW-1.2.7-Setup.exe",
-  "size": 59000096,
-  "sha256": "2FBA08DFDE96D4230CCF385B0970C73FA2888DDC72250BCF16ADEAA63F49E4DB",
-  "appSha256": "C066E5060C782A899BF17DD89DD0CFF52A94C1510A30F8DB0A9FD31CC0839A80",
+  "version": "1.2.8",
+  "url": "https://github.com/locuradigital/locuradigital-updates/releases/download/windows-v1.2.8/LocuraDigitalW-1.2.8-Setup.exe",
+  "size": 38069732,
+  "sha256": "E26A8B8D24DBC16AF1248FE21345D57292FC83954E57BE0C2ED00046038B1DB7",
+  "appSha256": "620F5677292516F1D1BD418A743732A4B58E56D82DD38FB5401409083572886B",
   "changes": [
-    "Mejoras del cierre de la VPN al salir de la aplicación y antes de actualizar.",
-    "Mejoras de recuperación y reconexión tras cerrar una sesión VPN."
+    "Parche opcional para instalaciones existentes de Windows x64. Versiones oficiales compatibles: 1.2.0, 1.2.4, 1.2.7. No compatible directamente con 0.1.21.",
+    "Mejoras de fluidez en Inicio, búsqueda, perfiles y navegación por temporadas largas.",
+    "Favoritos reúne las temporadas de cada serie sin duplicar capítulos. Continuar viendo conserva la posición de reproducción.",
+    "El catálogo se actualiza al elegir perfil si han pasado cuatro horas. La app muestra el progreso y usa las carátulas y categorías del proveedor.",
+    "Descargas reanuda desde el progreso guardado, protege archivos existentes al reintentar y evita trabajo repetido al cargar carátulas.",
+    "La guía EPG y el filtro central de géneros dejan de consultar servicios externos desde Windows."
   ],
   "mandatory": false
 }
